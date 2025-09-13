@@ -15,10 +15,10 @@
 			},
 			"extensions": [
 				"myriad-dreamin.tinymist",
+				"mathematic.vscode-pdf",
 				"GitHub.copilot",
 				"ms-vsliveshare.vsliveshare",
 				"valentjn.vscode-ltex",
-				"myriad-dreamin.tinymist"
 			]
 		}
 	}
