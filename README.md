@@ -1,20 +1,21 @@
 <div align="center">
 
-# The WebLatex
+# The WebTypst
+
+
+Please support the Typst development by paying for [Typst web app](https://typst.app) if you can. This is just an attempt to explore Github's devcontainers.
+
+
 
 ![image](https://user-images.githubusercontent.com/54777542/224550592-657a2f4e-bd46-4f11-85af-e9b299650434.jpg)
 
 [![GitHub license](https://img.shields.io/github/license/sanjib-sen/WebLaTex?style=for-the-badge)](https://github.com/sanjib-sen/WebLaTex/blob/main/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/sanjib-sen/WebLaTex?color=orange&label=Forked%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&style=for-the-badge)](https://github.com/sanjib-sen/WebLaTex/network) [![GitHub stars](https://img.shields.io/github/stars/sanjib-sen/WebLaTex?color=red&label=Loved%20%F0%9F%92%96&style=for-the-badge)](https://github.com/sanjib-sen/WebLaTex/stargazers)
 
-<a href="https://www.producthunt.com/posts/weblatex?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-weblatex" target="_blank" rel="noreferrer noopener"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=383518&theme=dark" alt="WebLaTeX - A&#0032;LaTeX&#0032;editor&#0032;with&#0032;Git&#0044;&#0032;VSCode&#0044;&#0032;Copilot&#0044;&#0032;Grammarly&#0032;and&#0032;more | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-  
+
 > A complete alternative for Overleaf with VSCode + Web + Git Integration + GitHub Copilot + Grammarly/LanguageTool + Live Collaboration Support
 
 <a href="https://github.com/sanjib-sen/weblatex/generate" target="_blank" rel="noreferrer noopener"> ![get-started](https://user-images.githubusercontent.com/54777542/224549654-6f2dc0ad-54e0-4827-b316-ebe264dbf007.svg)</a>
 
-</div>
-
-> I am so glad to share that, the project has been recognized globally and many people are using this tool to create their journals, research paper, and personal resume. Students, Lecturers, and Professors from universities like the University of Minnesota, University of Colorado, University of Utah, Cornell University, and even MIT Plasma Science and Fusion Center are using this tool for creating documents. A few of you personally thanked me for this project and wished to contribute in the future, which honestly I did not expect myself! Thank you again, for the limitless support!
 
 - [The WebLatex](#the-weblatex)
   - [Preview](#preview)
@@ -40,16 +41,6 @@
 ## Preview
 
 [Video Preview](https://user-images.githubusercontent.com/54777542/224549577-1c5e0b5f-c544-4fdf-a79e-25655483e2da.mp4)
-
-## Star History
-
-<a href="https://star-history.com/#sanjib-sen/weblatex&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanjib-sen/weblatex&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanjib-sen/weblatex&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanjib-sen/weblatex&type=Date" />
-  </picture>
-</a>
 
 ## Why
 
@@ -270,8 +261,3 @@ I am open to and request you to contribute to this project. You can just Create 
 2. Documentation
 3. Release: Export PDF as a release version
 4. You tell me
-
-## Contact
-
-1. Send an email to `mail@sanjibsen.com`
-2. [Facebook](https://www.facebook.com/sanjib.kumarsen.963/), [LinkedIn](https://www.linkedin.com/in/sanjibsen/)
