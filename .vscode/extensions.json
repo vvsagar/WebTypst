@@ -1,6 +1,7 @@
 {
 	"recommendations": [
-		"tinymist.pdf-tools",
+		"myriad-dreamin.tinymist",
+		"mathematic.vscode-pdf",
 		// Uncomment the line below if you want GitHub Copilot
 		"GitHub.copilot",
 		// Comment the line below if you do not want Live-Collaboration Feature
